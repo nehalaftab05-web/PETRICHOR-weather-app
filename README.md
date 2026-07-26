@@ -22,13 +22,13 @@ Petrichor is a weather app built around one idea: weather data is more useful wh
 
 **Current conditions, daily suggestions, and today's rain outlook**
 
-![Petrichor main view](
-)
+<img width="284" height="440" alt="image" src="https://github.com/user-attachments/assets/9d95e25b-d716-4875-ab16-a0b6ac97a5cf" />
+
+
 
 **Rain outlook, 24-hour forecast, and 7-day forecast**
 
-![Petrichor forecast view](![Uploading image.png…]()
-)
+<img width="716" height="436" alt="image" src="https://github.com/user-attachments/assets/454dd3b1-21f7-465e-901c-b9980b89f8ad" />
 
 ## Features
 
